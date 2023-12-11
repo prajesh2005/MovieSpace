@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieSpace/static/css/main.24f90e1a.css",
+    "main.js": "/MovieSpace/static/js/main.7cfe56ef.js",
+    "index.html": "/MovieSpace/index.html",
+    "static/media/search.svg": "/MovieSpace/static/media/search.f868232804b06fa754f3acfa20ebb347.svg",
+    "main.24f90e1a.css.map": "/MovieSpace/static/css/main.24f90e1a.css.map",
+    "main.7cfe56ef.js.map": "/MovieSpace/static/js/main.7cfe56ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f90e1a.css",
+    "static/js/main.7cfe56ef.js"
+  ]
+}
